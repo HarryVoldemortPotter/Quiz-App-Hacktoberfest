@@ -108,5 +108,14 @@ const questions = [
       { text: '6', correct: false },
       { text: '8', correct: true }
     ]
+  },
+  {
+    question: 'Which is Best  Javascript Library?',
+    answers: [
+      { text: 'Angular', correct: false },
+      { text: 'React', correct: true },
+      { text: 'Vue', correct: false },
+      { text: 'Jquery', correct: false }
+    ]
   }
 ]
